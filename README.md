@@ -159,6 +159,7 @@ sequenceDiagram
 ```
 
 ## Desafio Final
+⚠️ Ainda não implementado
 - Create
     - Mapear uma exceção, caso dê algum erro de inserção e capturar na controller
 - Update
